@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>JSP 2.0 Examples - Hello World SimpleTag Handler</title>
+  </head>
+  <body>
+    <h1>JSP 2.0 Examples - Hello World SimpleTag Handler</h1>
+    <hr>
+    <p>This  is ram page and i need the result is just Hello world</p>
+    <br>
+    <b><u>Result:</u></b>
+    <mytag:helloWorld/>
+  </body>
+</html>
